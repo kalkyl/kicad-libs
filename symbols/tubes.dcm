@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 6E5P
+D tetrode
+K tetrode valve tube
+F https://www.pearl-hifi.com/06_Lit_Archive/08_Tube_Data/Cons_Data/6E5P_Cons_Data.pdf
+$ENDCMP
+#
 $CMP EF97
 D pentode
 K pentode valve
