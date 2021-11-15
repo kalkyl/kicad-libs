@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5366-3.3YC5
+D 150mA Low-dropout Voltage Regulator, Vout 3.3V, Output discharge circuit, Vin up to 5.5V, SC-70-5
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP XC6901D331MR-G
+D Negative LDO voltage regulator
+K Negative LDO voltage regulator
+F https://www.mouser.se/datasheet/2/760/TOSLS00907_1-2574971.pdf
+$ENDCMP
+#
+#End Doc Library
