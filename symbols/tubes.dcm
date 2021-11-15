@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EF97
+D pentode
+K pentode valve
+F https://electronbin.com/sheets/030/e/EF97.pdf
+$ENDCMP
+#
+#End Doc Library
